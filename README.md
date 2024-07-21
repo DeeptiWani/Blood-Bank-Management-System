@@ -26,15 +26,6 @@ This project is a Blood Bank Management System designed to manage donor informat
 7. **Search Donor by Blood Group**
    - Allows searching for donors by specifying a blood group.
 
- ### Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your suggested changes.
-
-### License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-   
 8. **Decrease Stock**
    - Reduces the count of a specific blood type in the inventory after issuing it for use.
    
@@ -51,6 +42,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Backend:** Java
 - **Database:** MySQL
 - **IDE:** NetBeans (or any Java IDE of your choice)
+
+
+ ### Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your suggested changes.
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Branches
 - **master:** This branch contains the stable version of the project.
