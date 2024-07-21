@@ -46,10 +46,10 @@ This project is a Blood Bank Management System designed to manage donor informat
 ## Branches
 - **master:** This branch contains the stable version of the project.
 
- ### Contributing
+ ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your suggested changes.
 
-### License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
