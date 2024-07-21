@@ -43,6 +43,8 @@ This project is a Blood Bank Management System designed to manage donor informat
 - **Database:** MySQL
 - **IDE:** NetBeans (or any Java IDE of your choice)
 
+## Branches
+- **master:** This branch contains the stable version of the project.
 
  ### Contributing
 
@@ -51,6 +53,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ### License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Branches
-- **master:** This branch contains the stable version of the project.
